@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Anon / Soyo"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "唐千早"
+  pronouns         : "qianzao tang" # example: "she/her"  
+  bio              : "敬爱素!!!!!"
+  location         : "SYSU"
+  employer         : "Sun-Yat Sen University"
+  uri              : "https://www.sysu.edu.cn.htm" # URL
+  email            : "houtaiyu0430@gmail.com" 
 
   # Academic websites
   academia         : # URL
