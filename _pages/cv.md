@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* [2025]: [本科] 在读, 中山大学  
+* China,Sun-Yat Sen University,until now 
 *   
 *  
 
