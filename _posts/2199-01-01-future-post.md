@@ -10,8 +10,6 @@ tags:
 
 一个临时的目录页
 
-111
-======
 ### 示例
 * [post1](/posts/2012/08/blog-post-1/)
 * [post2](/posts/2013/08/blog-post-2/)
