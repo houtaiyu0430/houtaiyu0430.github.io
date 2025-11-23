@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* [2025]: [本科] 在读, 中山大学
+* [2025]: [本科] 在读, 中山大学  
+*   
+*  
 
 Work experience
 ======

@@ -9,7 +9,7 @@
       "address": "",
       "postalCode": "",
       "city": "Earth",
-      "countryCode": "US",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
@@ -33,11 +33,11 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Sun-Yat Sen University",
+      "area": "China",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2023",
+      "endDate": "2027",
       "gpa": null,
       "courses": []
     },
