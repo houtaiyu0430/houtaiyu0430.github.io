@@ -11,7 +11,7 @@ tags:
 一个临时的目录页
 
 ### 随记
-* [post1](/posts/2025/11/AI二三事/)
+* [AI二三事](/posts/2025/11/AI二三事/)
 * [post2](/posts/2013/08/blog-post-2/)
 * [post3](/posts/2014/08/blog-post-3/)
 
