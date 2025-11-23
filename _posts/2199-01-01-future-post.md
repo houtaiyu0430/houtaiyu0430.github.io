@@ -10,10 +10,10 @@ tags:
 
 一个临时的目录页
 
-### 示例
-* [post1](/posts/2012/08/blog-post-1/)
+### 随记
+* [post1](/posts/2025/11/AI二三事/)
 * [post2](/posts/2013/08/blog-post-2/)
 * [post3](/posts/2014/08/blog-post-3/)
 
 ### 笔记
-* [信号与系统](/posts/2012/08/blog-post-4/)
+* [数字信号处理](/posts/2025/11/数字信号处理笔记/)
