@@ -12,7 +12,7 @@ tags:
 
 ### 随记
 * [AI二三事](/posts/2025/11/AI二三事/)
-* [post2](/posts/2013/08/blog-post-2/)
+* [动物城2](/posts/2025/11/疯狂动物城2观后感/)
 * [post3](/posts/2014/08/blog-post-3/)
 
 ### 笔记
